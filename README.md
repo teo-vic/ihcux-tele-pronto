@@ -67,7 +67,3 @@ Isso garante continuidade no atendimento mesmo em conexões ruins.
 
 - Miro
 - GitHub
-
----
-
-# Estrutura do Repositório
